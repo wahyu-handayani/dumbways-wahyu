@@ -99,3 +99,5 @@ Output:
 ```
 3
 ```
+## Soal 7
+Membuat database pada MongoDB
